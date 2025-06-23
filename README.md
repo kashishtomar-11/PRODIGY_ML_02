@@ -29,7 +29,7 @@ Create a K-means clustering algorithm to group retail store customers based on t
 
 📈 Output Example
 
-![Cluster Example](https://i.imgur.com/YVXJfKu.png)
+![Cluster Output](cluster_output.png)
 
 📂 Files Included
 
